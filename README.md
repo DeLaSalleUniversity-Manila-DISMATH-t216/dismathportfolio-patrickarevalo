@@ -45,7 +45,7 @@ deal in *Mathematical Truths*
 * Logical Equivalences is the second tool for proving
 * Logical Equivalences are somewhat like algebraic laws
 * The Logical Equivalences include:
-s
+
 |Name |Equivalence |
 |:---:|:-----:|
 |Identity Law|p∧T ≡ p  <br>  p∨F ≡ p|
@@ -90,7 +90,7 @@ s
 
 ##Week  4:
 ####This week I learned that:
-*There are 6 *Methods of Proof*
+* There are 6 **Methods of Proof**
 	* Direct Proof
 	* Proof by Contraposition (Indirect)
 	* Vacuous and Trivial Proof
