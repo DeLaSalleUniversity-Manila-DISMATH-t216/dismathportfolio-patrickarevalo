@@ -88,27 +88,45 @@ s
 
 
 
+##Week  4:
+####This week I learned that:
+*There are 6 *Methods of Proof*
+	* Direct Proof
+	* Proof by Contraposition (Indirect)
+	* Vacuous and Trivial Proof
+	* Proof by Contradiction (Indirect)
+	* Proof by Equivalence
 
+1. Direct Proof (Steps)
+	* Assume p is TRUE
+	* Show that q is also TRUE based on step 1 <br>
+	◆ *Use Direct proof if first term is simpler than second term!*
+	
+2. Proof by Contraposition(Indirect) (Steps)
+	* Assume ¬q ≡ T
+	* Show that ¬p is also TRUE based on step 1 <br>
+	◆ *Use Proof by Contraposition if second term is simpler than first term!*
 
+3. Vacuous Proof
+	* If ¬p is FALSE then p→q must be TRUE <br>
+	¬p <br>
+	∴p→q
 
+4. Trivial Proof
+	* If q is TRUE then p→q must also be TRUE <br>
+	q <br>
+	∴p→q
 
+5. Proof by Contradiction
+	* Assume that the Premise is NOT TRUE
+	* Show that step 1 will end up in a Contradiction
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+6. Proof by Equivalence (Biconditionals)
+	* p ↔ q ≡ (p → q) → (q → p)
+	
+* if proving ends up in a fraction or a √ then you are using the wrong method!
+* Proving was the most challenging topic in DISMATH so far
+* It was tricky especially when it comes to assuming and using theorems.
 
 
 
