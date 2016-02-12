@@ -7,7 +7,7 @@ dismathportfolio-patrickarevalo created by Classroom for GitHub
 
 * There are many different kinds of truths such as Legal Truth, Authoritative Truth, Scientific Truth, Probable Truth, and Philosophical truth but in DISMATH, we only
 deal in *Mathematical Truths*
-* **Propositions are declarative statements that are either True of False but **never** both
+* **Propositions** are declarative statements that are either True of False but **never** both
 * Propositions have a Truth Value of TRUE(1) if tit is true and FALSE(0) if it is false
 * Propositions can be expressed in letters such as p, q, r and are called **Propostitional Variables**
 * **Compound Propositions** are propositions that are constructed by combining one or more propositions using *Logical Operators*
@@ -129,8 +129,15 @@ deal in *Mathematical Truths*
 * It was tricky especially when it comes to assuming and using theorems.
 
 
-
-
+##Week  4:
+####This week I learned that:
+* **Mathematical Induction** has two parts:
+	* Basis: 
+	 	* Show P(n) to be true
+	* Direct Proof:
+	 	* Assume P(k) ≡ T
+	 	* Show P(k +) ≡ T 
+* Mathematical Induction was new for me since I haven't taken up ENGALG2 yet.
 
 
 
