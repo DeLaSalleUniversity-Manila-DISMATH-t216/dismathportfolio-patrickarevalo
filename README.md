@@ -60,13 +60,17 @@ deal in *Mathematical Truths*
 |Negation Law|p∧¬p ≡ F  <br>  p∨¬p ≡ T|
 
 * Logical Equivalences was already introduced the previous week but was discussed in more detail in week 2 :)
+
+
+##Week 3:
+####This week I learned that:
 * __Quantifiers__
 	- **Existential Quantifiers** ∃x P(x) the proposition is true as long as there exist a value of x that is true
 	- **Universal Quantifiers** ∀xP(x) the proposition is true as long as all values of x are true
 * **Tautology** is a statement that is *always* true
 
 
-##Week 3:
+##Week 4:
 ####This week I learned that:
 * An **Argument** is a sequence of premises that lead to a conclusion
 * An argument is **Valid** if the premises as well as the conclusion are all true
@@ -88,7 +92,7 @@ deal in *Mathematical Truths*
 
 
 
-##Week  4:
+##Week  5:
 ####This week I learned that:
 * There are 6 **Methods of Proof**
 	* Direct Proof
@@ -129,7 +133,7 @@ deal in *Mathematical Truths*
 * It was tricky especially when it comes to assuming and using theorems.
 
 
-##Week  4:
+##Week  6:
 ####This week I learned that:
 * **Mathematical Induction** has two parts:
 	* Basis: 
@@ -140,6 +144,53 @@ deal in *Mathematical Truths*
 * Mathematical Induction was new for me since I haven't taken up ENGALG2 yet.
 
 
+##Week 7:
+####This week I learned that:
+* **Recursive Algorithm** is an algorithm that solves a problem by reducing it to an instance of the same problem with a smaller input.
+* Set is introduced
+* **Set** is an unordered collection of distinct objects, which may be anything (including other sets).
+	* *Examples*:
+	* {A, B, C, D} ≡ {D, C, B, A}
+	* {X, Y} ≡ {X, Y, Y, X}
+* **Set Identities**
+* **Subsets**
+* **Cardinality** of a set is the number of elements it contains.
+	* If S is a set, we denote its cardinality by writing |S|.
+* **Functions**
+	* Let A and B be sets. A function f from A to B is an assignment of exactly one element of B to each element of A.
+	* "Mappings" or "Transformations"
+* **Types of Functions**
+	* One-to-one Function (Injective) never assigns the same value to two different domain elements
+	* Onto Function (Surjective) have equal range and codomain.
+	* One-to-one Correspondence (Bijection) is both one-to-one and onto.
+
+
+##Week 8:
+####This week I learned that:
+* **Algorithm** is a finite set of precise instructions for performing a computation or for solving a problem.
+	* *Properties*
+		* input
+		* output
+		* definiteness
+		* correctness
+		* finiteness
+		* generality
+* **Pseudocode** is a high-level description of an algorithm that uses the structural conventions of a programming language, but is intended for human reading.
+* *Preconditions* are statements that describe valid input
+* *Postconditions* are conditions that the output should satisfy
+
+
+##Week 9:
+####This week I learned that:
+* **Searching Algorithms** -- the problem of locating an element in an ordered list
+* There are two types of **Searching Algorithms**
+	* *Linear Search Algorithm*
+	* *Binary Search Algortihm*
+* **Sorting Algorithms** -- the problem of assorting elements into increasing order
+* There are two types of **Sorting Algorithms**
+	* *Bubble Sort*
+	* *Insertion Sort*
+* **Greedy Algorithm** selects the best choice at each step, instead ofconsidering all sequences of steps that may leadto an optimal solution.
 
 
 
