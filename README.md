@@ -193,4 +193,33 @@ deal in *Mathematical Truths*
 * **Greedy Algorithm** selects the best choice at each step, instead ofconsidering all sequences of steps that may leadto an optimal solution.
 
 
+##Week 11:
+####This week I learned that:
+* **Graphs** are consisted of vertices (nodes) and edges (bridges)
+* **Handshake Theorem** is used to determine the number of edges in a graph
+	* 2e = Σdeg(v)
+* **Euler Circuit**
+	* Passes through every edge of the graph only ONCE
+	* Starts and ends on the same Node
+	* All nodes have even degrees
+* **Euler Path**
+ 	* Passes through every edge of the graph only ONCE
+	* Does not start and end on the same point
+	* Exactly 2 nodes have even degress
+* **Hamilton Circuit**
+ 	* Passes through all nodes only ONCE
+ 	* Starts and ends on the same node
+ * **Hamilton Path**
+ 	* Passes through all nodes only ONCE
+ 	* DOes not start and end on the same node
+* **Adjacency Matrix**
+	* relationship between the nodes
+* **Incidence Matrix**
+	* relationship between the edges
+* **Isomorphism**
+	* relationship between graphs
+	* "Rubber Band"
+* **Planar** is beong able to put a graph into a plane without intersecting edges or nodes
+* **Euler's Fromula** 
+	* r = e - v + 2
 
