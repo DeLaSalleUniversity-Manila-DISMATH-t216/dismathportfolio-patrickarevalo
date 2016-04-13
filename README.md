@@ -193,7 +193,7 @@ deal in *Mathematical Truths*
 * **Greedy Algorithm** selects the best choice at each step, instead ofconsidering all sequences of steps that may leadto an optimal solution.
 
 
-##Week 11:
+##Week 11-12:
 ####This week I learned that:
 * **Graphs** are consisted of vertices (nodes) and edges (bridges)
 * **Handshake Theorem** is used to determine the number of edges in a graph
@@ -223,3 +223,8 @@ deal in *Mathematical Truths*
 * **Euler's Fromula** 
 	* r = e - v + 2
 
+##Week 13:
+* Graph Coloring
+* Trees 
+* Rooted Trees
+* n-ary tree
